@@ -21,6 +21,6 @@
   },
   "scripts": {
     "first-deploy": "npm install",
-    "postdeploy": "node run start"
+    "postdeploy": "npm start"
   }
 }
